@@ -1,0 +1,14 @@
+
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+build/contracts
+build
+
+# Dependency directories
+node_modules/
+
+
+# dotenv environment variables file
+.env
+

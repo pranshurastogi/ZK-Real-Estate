@@ -32,17 +32,17 @@ See rinkeby_deployment.txt for Contract address and other information
 
 ## Open Sea details 
 
-* [House No- Asset ID 1] (https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/1)
-* [House No- Asset ID 2] (https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/2)
-* [House No- Asset ID 3] (https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/3)
-* [House No- Asset ID 4] (https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/4)
-* [House No- Asset ID 5] (https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/5)
-* [House No- Asset ID 6] (https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/6)
-* [House No- Asset ID 7] (https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/7)
-* [House No- Asset ID 8] (https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/8)
-* [House No- Asset ID 9] (https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/9)
-* [House No- Asset ID 10] (https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/10)
-* [House No- Asset ID 111] (https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/111)
+* [House No- Asset ID 1](https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/1)
+* [House No- Asset ID 2](https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/2)
+* [House No- Asset ID 3](https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/3)
+* [House No- Asset ID 4](https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/4)
+* [House No- Asset ID 5](https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/5)
+* [House No- Asset ID 6](https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/6)
+* [House No- Asset ID 7](https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/7)
+* [House No- Asset ID 8](https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/8)
+* [House No- Asset ID 9](https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/9)
+* [House No- Asset ID 10](https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/10)
+* [House No- Asset ID 111](https://rinkeby.opensea.io/assets/0x4c4e0708cb3f55c54bafc7026e77ecfbd5e203b5/111)
 
 
 Sold House - Asset ID 111, 1, 6,7,8

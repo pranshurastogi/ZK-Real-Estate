@@ -108,3 +108,5 @@ Compiling your contracts...
 * [Interactive zero knowledge 3-colorability demonstration](http://web.mit.edu/~ezyang/Public/graph/svg.html)
 * [Docker](https://docs.docker.com/install/)
 * [ZoKrates](https://github.com/Zokrates/ZoKrates)
+
+*[Graduation Certificate](https://confirm.udacity.com/JU6M2EAJ)
